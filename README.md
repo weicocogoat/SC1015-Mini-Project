@@ -13,3 +13,8 @@ In this repository, we will be attempting to find the top factors that affect th
 
 1. [Data Preparation](https://github.com/weicocogoat/SC1015-Mini-Project/tree/master/1%20data%20preparation)
 
+    Contains:- 
+    - 2 csv files (before and after cleaning)
+    - Python notebook for data cleaning
+    
+    In this folder, we are doing basic data preparation before moving on to analysis. This includes filling Nan values, 
