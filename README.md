@@ -28,4 +28,7 @@ In this repository, we will be attempting to find the top factors that affect th
     
     In this folder, we will be exploring the dataset. We looked into the importance of columns "Price Var" and "Class". 
     Realising that there are too many factors to work with, we cut down that number down into a workble size.
-    
+    Utilizing correlation heatmaps, boxplots and violin plots, we explored the factors and found the most relavant factors
+    to be used in our machine learning model.
+  
+### 3. 
