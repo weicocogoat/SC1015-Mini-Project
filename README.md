@@ -31,4 +31,15 @@ In this repository, we will be attempting to find the top factors that affect th
     Utilizing correlation heatmaps, boxplots and violin plots, we explored the factors and found the most relavant factors
     to be used in our machine learning model.
   
-### 3. 
+### 3. [Model Building](https://github.com/weicocogoat/SC1015-Mini-Project/tree/master/3%20ML)
+
+    Contains:-
+    - Dataset after EDA in CSV format
+    - Python Notebook for Building the Model
+    - Model in sav format
+    
+    In this folder, we are utilizing decision tree, random forest and GridSearch to create a machine learning model which
+    can help us predict the "Class" of a stock. This would let us know whether a stock is profitable or not.
+    In the notebook, we explore the various models to look at how do we improve our classification accuracy.
+    
+### 4. 
