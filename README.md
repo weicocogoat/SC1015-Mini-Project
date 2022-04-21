@@ -11,4 +11,5 @@ In this repository, we will be attempting to find the top factors that affect th
 
 ## Folder descriptions
 
-1. 
+1. [Data Preparation](https://github.com/weicocogoat/SC1015-Mini-Project/tree/master/1%20data%20preparation)
+
