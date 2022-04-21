@@ -55,6 +55,7 @@ In this repository, we will be attempting to find the top factors that affect th
     an investor to maximize profit while minimizing losses.
     
 ## Contributors
+SC16, Group 7
 - Harvey - Presenter + Editor
 - Kasidis - Data Preparation + EDA + Strategy
 - Wei Yang - Model building + Slides
@@ -69,3 +70,6 @@ In this repository, we will be attempting to find the top factors that affect th
 - <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html>
 - <https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html>
 - <https://www.youtube.com/watch?v=HdlDYng8g9s&t=490s>
+
+## MISC.
+This repository is submitted as a project work for Nanyang Technological University's SC1015- Data Science and Aritificial Intelligence course.
