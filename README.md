@@ -17,4 +17,6 @@ In this repository, we will be attempting to find the top factors that affect th
     - 2 csv files (before and after cleaning)
     - Python notebook for data cleaning
     
-    In this folder, we are doing basic data preparation before moving on to analysis. This includes filling Nan values, 
+    In this folder, we are doing basic data preparation before moving on to analysis. This includes filling Nan values in the dataset and removing outliers.
+   
+2. 
