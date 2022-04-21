@@ -11,12 +11,21 @@ In this repository, we will be attempting to find the top factors that affect th
 
 ## Folder descriptions
 
-1. [Data Preparation](https://github.com/weicocogoat/SC1015-Mini-Project/tree/master/1%20data%20preparation)
+### 1. [Data Preparation](https://github.com/weicocogoat/SC1015-Mini-Project/tree/master/1%20data%20preparation)
 
     Contains:- 
-    - 2 csv files (before and after cleaning)
-    - Python notebook for data cleaning
+    - 2 CSV files (before and after cleaning)
+    - Python Notebook for data cleaning
     
-    In this folder, we are doing basic data preparation before moving on to analysis. This includes filling Nan values in the dataset and removing outliers.
+    In this folder, we are doing basic data preparation before moving on to analysis. 
+    This includes filling Nan values in the dataset and removing outliers.
    
-2. 
+### 2. [Exploratory Data Analysis](https://github.com/weicocogoat/SC1015-Mini-Project/tree/master/2%20EDA)
+
+    Contains:-
+    - 2 CSV files (before and after EDA)
+    - Python Notebook for EDA
+    
+    In this folder, we will be exploring the dataset. We looked into the importance of columns "Price Var" and "Class". 
+    Realising that there are too many factors to work with, we cut down that number down into a workble size.
+    
