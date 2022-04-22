@@ -53,6 +53,11 @@ In this repository, we will be attempting to find the top factors that affect th
     We then proceeded to propose 3 different strategies for investing based on our model, ran a simulation and plotted 
     the results in a time series graph. After some analysis of the time series graph, we obtained the best strategy for 
     an investor to maximize profit while minimizing losses.
+
+## Conclusion
+- We have developed a model that utilizes various factors that are readily available on trading platforms to predict and classify a stock into its proper class
+- We also utilized a time series graph to help us simulate our proposed strategy
+- With our model and proposed strategy, it will allow investors to make more informed decision on which stock to invest in to allow for profits while minimizing losses.
     
 ## Contributors
 SC16, Group 7
