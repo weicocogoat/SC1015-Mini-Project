@@ -64,9 +64,9 @@ In this repository, we will be attempting to find the top factors that affect th
     
 ## Contributors
 SC16, Group 7
-- Harvey - Presenter + Editor
-- Kasidis - Data Preparation + EDA + Strategy
-- Wei Yang - Model building + Slides
+- Chantharojwong Kasidis - Data Preparation + EDA + Strategy
+- Harvey Zhang Tianren - Presenter + Editor
+- Yeoh Wei Yang - Model building + Slides
 
 ## References
 - <https://www.kaggle.com/datasets/cnic92/200-financial-indicators-of-us-stocks-20142018>
