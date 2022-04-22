@@ -54,6 +54,9 @@ In this repository, we will be attempting to find the top factors that affect th
     the results in a time series graph. After some analysis of the time series graph, we obtained the best strategy for 
     an investor to maximize profit while minimizing losses.
 
+## Additional materials included
+- Slides for the presentation
+
 ## Conclusion
 - We have developed a model that utilizes various factors that are readily available on trading platforms to predict and classify a stock into its proper class
 - We also utilized a time series graph to help us simulate our proposed strategy
